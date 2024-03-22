@@ -7,9 +7,9 @@ opens = 0
 admin = 0
 Aroot = 0
 
-pw_minidoc = "MiniDoc2024"
-pw_admin = "AdminCDI2024"
-pw_root = "AdminRoot2024"
+pw_minidoc = "change_this_password"
+pw_admin = "change_this_password"
+pw_root = "change_this_password"
 
 # Fonction pour enregistrer les données dans un fichier JSON
 def save_data(filename, data):
